@@ -12,7 +12,7 @@ Run Flask directly:
 
 Or run with Waitress:
 
-`python -m waitress --listen=0.0.0.0:5000 src.app:app`
+`python -m waitress --listen=0.0.0.0:5000 app:app`
 
 ## Run on Render (Linux)
 
